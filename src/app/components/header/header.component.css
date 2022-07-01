@@ -1,0 +1,13 @@
+.from-control{
+    position: relative;
+    border-radius: 30px;
+    width: 600px;
+    margin-left: 30px;
+    margin-top: 6px;
+}
+.search-icon{
+    position: relative;
+    z-index: 10;
+    right: 5%;
+    top: 14px;
+}
